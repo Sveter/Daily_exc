@@ -4,5 +4,7 @@
 
 ##### 例子：
 > str1 = "They are students."
+> 
 > str2 = "aeiou"
+> 
 > res = "Thy r stdnts."
